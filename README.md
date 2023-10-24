@@ -13,7 +13,7 @@
 - 💬 Ask me about Testing Process, AWS, Cloud Computing, Playwright, PostMan, Rest Assured, Selenium, Framework Set Up, CI/CD<br>
 - 📧 You can reach me at Mahabubashaa@gmail.com
 
-![](https://komarev.com/ghpvc/?username=vijayaraghavanv&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=mahabubashaa&color=brightgreen) <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 ### 🌐 Social Media Handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahabubasha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mahabubashaa) [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/mahabubashaa)
